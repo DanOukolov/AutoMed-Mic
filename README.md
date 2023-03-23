@@ -1,6 +1,6 @@
 # AutoMed-Mic
 
-![AutoMed](/Component.png)
+![AutoMed](Component.png)
 
 
 # DIG 345 - Project 1 AutoMed
