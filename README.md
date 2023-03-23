@@ -1,31 +1,42 @@
 # AutoMed-Mic
 
-![AutoMed](client/public/Component.png)
+![AutoMed](./Component.png)
 
 
-# DIG 345 - Project 1 AutoMed
+# DIG 333 - Project 1 AutoMed-Mic
 
-A Proof of Concept for an EMR that uses Natural Language Models 
+A Proof of Concept for a speech recognition microphone that can export output to chat GPT
 
 ## Deliverables
 
-- [Google Slide](https://docs.google.com/presentation/d/1L9AKmOW8Denx7MTkOTdVFFV4zOAocYgAHETadLNdY_8/edit?usp=sharing)
-- [Figma](https://www.figma.com/file/ic9GAV7s2EFdypH37CVllY/automed?node-id=13-117&t=cUA1eWsmDdKRqvGl-0)
-- [Vercel](automed-opal.vercel.app)
+- [Developer Log](https://docs.google.com/document/d/1zPJD5fSXpg7YNlvD3DewgZzqLrrKN2-3wnK-YxOcB0A/edit?usp=sharing)
+- [Google Slide](https://docs.google.com/presentation/d/1EvMUlrvxZ70bQP-wuZsaoVZqeHXzKGJeC2is3pKXZ3c/edit?usp=sharing)
+
 
 ### Long Term Vision 
-I want to build an EMR and Medical Office experience that is heavily reliant on patients taking charge of their own documentation with the help of AI and the use of HL7 FHIR to track patient docs and data. 
+I want to build an EMR and Medical Office experience that is heavily reliant on patients taking charge of their own documentation with the help of AI and the use of HL7 FHIR to track patient docs and data. This portion of my project provides a proof of concept that microphones can track coversations successfully. These conversations can then be passed to Chat GPT to structure and turn them into medical notes. 
 
-### Color Scheme
-Purple to soothe the soul. 
+### Design
+![Alternate image text](https://someurl/imagelocation/image.png)
+-[Figma](figma.com)
 
-### Teck Stack
-FERN 
+### Competition Scan
+-[Augmedix](https://augmedix.com/?utm_campaign=antenna_augmedix_non-branded_awareness_google-ads_022023&utm_source=adwords&utm_medium=ppc&utm_content=antenna_augmedix_awareness_non-branded_non-branded_022023_search_2nd_open-auction_cpc_keyword_scribe_united-states_na_cross_scribe_text_paid-search_paid-search_learn-more_home&utm_term=dictation%20systems%20for%20doctors&hsa_acc=1311799051&hsa_cam=19660317497&hsa_grp=149788752670&hsa_ad=647632915127&hsa_src=g&hsa_tgt=kwd-1065629913041&hsa_kw=dictation%20systems%20for%20doctors&hsa_mt=p&hsa_net=adwords&hsa_ver=3)
 
-### APIs 
+### Materials 
 Firebase and GPT 3.5 from Open AI 
 
-### Final Reflections 
+### Final Results and Images 
+
+
+
+
+
+
+
+
+
+### Personal Statement on Project
 This project serves as the absolute basic of an automated medical encounter note. 
 
 
