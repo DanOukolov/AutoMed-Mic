@@ -17,8 +17,7 @@ A Proof of Concept for a speech recognition microphone that can export output to
 I want to build an EMR and Medical Office experience that is heavily reliant on patients taking charge of their own documentation with the help of AI and the use of HL7 FHIR to track patient docs and data. This portion of my project provides a proof of concept that microphones can track coversations successfully. These conversations can then be passed to Chat GPT to structure and turn them into medical notes. 
 
 ### Design
-![Alternate image text](https://someurl/imagelocation/image.png)
--[Figma](figma.com)
+-[Figma](https://www.figma.com/file/hWacOdDnBwi6C7qYz3RAXV/Automed-Mic?node-id=0-1&t=tpI60rgQses18ZFj-0)
 
 ### Competition Scan
 -[Augmedix](https://augmedix.com/?utm_campaign=antenna_augmedix_non-branded_awareness_google-ads_022023&utm_source=adwords&utm_medium=ppc&utm_content=antenna_augmedix_awareness_non-branded_non-branded_022023_search_2nd_open-auction_cpc_keyword_scribe_united-states_na_cross_scribe_text_paid-search_paid-search_learn-more_home&utm_term=dictation%20systems%20for%20doctors&hsa_acc=1311799051&hsa_cam=19660317497&hsa_grp=149788752670&hsa_ad=647632915127&hsa_src=g&hsa_tgt=kwd-1065629913041&hsa_kw=dictation%20systems%20for%20doctors&hsa_mt=p&hsa_net=adwords&hsa_ver=3)
