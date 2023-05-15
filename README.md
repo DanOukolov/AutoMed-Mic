@@ -11,7 +11,7 @@ A Proof of Concept for a speech recognition microphone that can export output to
 
 - [Developer Log](https://docs.google.com/document/d/1zPJD5fSXpg7YNlvD3DewgZzqLrrKN2-3wnK-YxOcB0A/edit?usp=sharing)
 - [Google Slide](https://docs.google.com/presentation/d/1EvMUlrvxZ70bQP-wuZsaoVZqeHXzKGJeC2is3pKXZ3c/edit?usp=sharing)
-
+- [Video Demo](https://youtu.be/5Qj4lBWfyMQ)
 
 ### Long Term Vision 
 I want to build an EMR and Medical Office experience that is heavily reliant on patients taking charge of their own documentation with the help of AI and the use of HL7 FHIR to track patient docs and data. This portion of my project provides a proof of concept that microphones can track coversations successfully. These conversations can then be passed to Chat GPT to structure and turn them into medical notes. 
